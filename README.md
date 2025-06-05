@@ -1,6 +1,7 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
  💫 About Me:
-<br>🚀 Java Full-Stack Developer<br>🧠 Currently diving deep into Java, Spring Boot, React, SQL, and AWS.  <br>🎯 Focused on writing clean, efficient code and solving real-world problems with tech.<br><br>🛠️ Tech Stack<br>💻 Java | Spring Boot | React | JavaScript | HTML | CSS | Java<br>🗄️ PostgreSQL | MySQL<br>🌐 REST APIs | JSON <br>☁️ AWS (EC2, S3, RDS) <br>🔧 Git | GitHub | VS Code <br><br>📫 Let's Connect<br>LinkedIn: https://www.linkedin.com/in/bhavanisainarayana/<br>Email: pbsn99@gmail.com<br><br>⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. When I’m not coding, I’m probably exploring tech blogs or perfecting my Git commit game 😎
+
+🚀 Java Full-Stack Developer<br>🧠 Currently diving deep into Java, Spring Boot, React, SQL, and AWS.  <br>🎯 Focused on writing clean, efficient code and solving real-world problems with tech.<br><br>🛠️ Tech Stack<br>💻 Java | Spring Boot | React | JavaScript | HTML | CSS | Java<br>🗄️ PostgreSQL | MySQL<br>🌐 REST APIs | JSON <br>☁️ AWS (EC2, S3, RDS) <br>🔧 Git | GitHub | VS Code <br><br>📫 Let's Connect<br>LinkedIn: https://www.linkedin.com/in/bhavanisainarayana/<br>Email: pbsn99@gmail.com<br><br>⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. When I’m not coding, I’m probably exploring tech blogs or perfecting my Git commit game 😎
 
 
 ## 🌐 Socials:
