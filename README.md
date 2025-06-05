@@ -15,5 +15,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PBSN99&theme=dark&hide_border=true)<br/>
 ![LeetCode Profile Summary Card](https://leetcard.jacoblin.cool/PBSN99?theme=dark)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
