@@ -1,5 +1,6 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
  💫 About Me: 
+ 
 🚀 Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>🧠 Focused on writing clean, efficient code and solving real-world problems with tech.<br><br>
 
 🎯 Tech Stack:<br>
