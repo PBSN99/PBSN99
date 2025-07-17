@@ -9,7 +9,7 @@
 🛠️ Backend: Spring | Spring Boot | REST APIs | Microservices <br>
 🗄️ Databases: MySQL | MongoDB | PostgreSQL <br>
 ☁️ DevOps & Cloud: Docker | Kubernetes | Terraform | AWS | CI/CD <br>
-🔧 Tools & Platforms: Git | GitHub | VS Code | Linux <br><br>📫 Let's Connect<br>LinkedIn: www.linkedin.com/in/bhavanipottipothula<br>Portfolio: https://pbsn99.github.io<br>Email: pbsn99@gmail.com<br>College Email: bpottipo@asu.edu<br><br>
+🔧 Tools & Platforms: Git | GitHub | VS Code | Linux <br><br>📫 Let's Connect<br>LinkedIn: www.linkedin.com/in/bhavanipottipothula<br>Portfolio: https://pbsn99.github.io<br>Email: bpottipo@asu.edu<br><br>
 
 ⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. When I’m not coding, I’m probably exploring tech blogs or perfecting my Git commit game 😎
 
