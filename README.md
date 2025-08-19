@@ -4,7 +4,7 @@
 🚀 Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>🧠 Focused on writing clean, efficient code and solving real-world problems with tech.
 
 🎯 Tech Stack:<br>
-💻 Languages: Java | C++ | Go | Python | JavaScript <br>
+💻 Languages: Java | Python | C++ | JavaScript <br>
 🎨 Frontend: React.js | HTML | CSS <br>
 🛠️ Backend: Spring | Spring Boot | REST APIs | Microservices <br>
 🗄️ Databases: MySQL | MongoDB | PostgreSQL <br>
