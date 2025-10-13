@@ -11,4 +11,4 @@ Database: MySQL | MongoDB | PostgreSQL <br>
 DevOps: Docker | Kubernetes | Terraform | AWS <br>
 <br>📫 Contact:<br>✉️ pbsn99@gmail.com<br>📱 +1 (201) 275-9949<br><br>
 
-⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. 
+⚡ Fun Fact: I’m a curious developer who loves turning coffee into code and ideas into real apps. 
