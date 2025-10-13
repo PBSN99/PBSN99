@@ -9,6 +9,6 @@ Frontend: React.js | HTML | CSS <br>
 Backend: Spring Boot | REST APIs | Microservices <br>
 Database: MySQL | MongoDB | PostgreSQL <br>
 DevOps: Docker | Kubernetes | Terraform | AWS <br>
-<br>📫 Reach me:<br>Email: pbsn99@gmail.com<br>LinkedIn: www.linkedin.com/in/bhavanipottipothula<br>Portfolio: <br><br>
+<br>📫 Reach me:<br>✉️ pbsn99@gmail.com<br>📱 +1 (201) 275-9949<br><br>
 
 ⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. 
