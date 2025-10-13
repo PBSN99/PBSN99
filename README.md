@@ -11,4 +11,4 @@ Database: MySQL | MongoDB | PostgreSQL <br>
 DevOps: Docker | Kubernetes | AWS <br>
 <br>📫 Let's Connect<br>LinkedIn: www.linkedin.com/in/bhavanipottipothula<br>Portfolio: /<br>Email: pbsn99@gmail.com<br><br>
 
-⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. When I’m not coding, I’m probably exploring tech blogs or perfecting my Git commit game 😎
+⚡ Fun Fact: I’m a curious builder who loves turning coffee into code and ideas into real apps. 
