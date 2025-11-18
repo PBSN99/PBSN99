@@ -11,7 +11,9 @@ DevOps: AWS | Docker | Kubernetes | Terraform <br>
 Tools: Linux | Git | Maven | Jenkins | Jira <br>
 
 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/PBSN99)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/PBSN99?theme=dark&border=0&radius=20&ext=heatmap)
+
 
 
 <br>📫 Contact:<br>✉️ pbsn99@gmail.com<br>📱 +1 (201) 275-9949<br><br>
