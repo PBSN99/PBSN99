@@ -10,7 +10,6 @@ Database: MySQL | PostgreSQL | MongoDB <br>
 DevOps: AWS | Docker | Kubernetes | Terraform <br>
 Tools: Linux | Git | Maven | Jenkins | Jira <br>
 
-
 <br>📫 Contact:<br>✉️ pbsn99@gmail.com<br>📱 +1 (201) 275-9949<br><br>
 
 ⚡ Fun Fact: I’m a curious developer who loves turning coffee into code and ideas into real apps. 
