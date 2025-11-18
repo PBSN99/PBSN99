@@ -4,11 +4,13 @@
 🚀 Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>🧠 Focused on writing clean, efficient code and solving real-world problems with tech.
 
 🎯 Tech Stack:<br>
-Languages: Java | Python | JavaScript <br>
-Frontend: React.js | HTML | CSS <br>
-Backend: Spring Boot | REST APIs | Microservices <br>
-Database: MySQL | MongoDB | PostgreSQL <br>
-DevOps: Docker | Kubernetes | Terraform | AWS <br>
+Frontend: JavaScript | React.js | HTML | CSS <br>
+Backend: Java | Python | Spring Boot | REST APIs | Microservices <br>
+Database: MySQL | PostgreSQL | MongoDB <br>
+DevOps: AWS | Docker | Kubernetes | Terraform <br>
+Tools: Linux | Git | Maven | Jenkins | Jira <br>
+
+
 <br>📫 Contact:<br>✉️ pbsn99@gmail.com<br>📱 +1 (201) 275-9949<br><br>
 
 ⚡ Fun Fact: I’m a curious developer who loves turning coffee into code and ideas into real apps. 
